@@ -21,6 +21,7 @@ public class AdjacencyList implements Representation {
     public AdjacencyList(File file) {
         // Hey, I finished
         // I finished file reading
+        // test test test
     }
 
     public AdjacencyList() {
