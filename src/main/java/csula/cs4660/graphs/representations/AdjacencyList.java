@@ -19,6 +19,10 @@ public class AdjacencyList implements Representation {
     private Map<Node, Collection<Edge>> adjacencyList;
 
     public AdjacencyList(File file) {
+        // Hey, I finished
+        // I finished file reading
+        // test test test
+        // multiline commit test
     }
 
     public AdjacencyList() {
